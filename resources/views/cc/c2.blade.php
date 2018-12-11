@@ -11,7 +11,7 @@
                             {{ session('status') }}
                         </div>
                     @endif
-                     You are now in cc.c1
+                     You are now in cc.c2
                 </div>
             </div>
         </div>
